@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.venv/
+vendor/
+outputs/
+dist/
+*.vsdx
+*.vssx
+*.xlsx
+~$*
+*.log
+.env*

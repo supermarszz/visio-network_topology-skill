@@ -1,0 +1,4 @@
+interface:
+  display_name: "Visio 网络拓扑"
+  short_description: "从 Excel 链路表绘制可编辑 Visio 分层拓扑，自动处理直线配色和密集接口标签"
+  default_prompt: "使用 $visio-network-topology 根据链路表生成可编辑的 Visio 网络拓扑图，并检查接口与线路对应关系。"
